@@ -1,0 +1,14 @@
+D:\Users\dev\source\repos\TesteApp\TesteApp.Service\bin\Debug\netcoreapp2.1\TesteApp.Service.deps.json
+D:\Users\dev\source\repos\TesteApp\TesteApp.Service\bin\Debug\netcoreapp2.1\TesteApp.Service.dll
+D:\Users\dev\source\repos\TesteApp\TesteApp.Service\bin\Debug\netcoreapp2.1\TesteApp.Service.pdb
+D:\Users\dev\source\repos\TesteApp\TesteApp.Service\obj\Debug\netcoreapp2.1\TesteApp.Service.csprojAssemblyReference.cache
+D:\Users\dev\source\repos\TesteApp\TesteApp.Service\obj\Debug\netcoreapp2.1\TesteApp.Service.csproj.CoreCompileInputs.cache
+D:\Users\dev\source\repos\TesteApp\TesteApp.Service\obj\Debug\netcoreapp2.1\TesteApp.Service.AssemblyInfoInputs.cache
+D:\Users\dev\source\repos\TesteApp\TesteApp.Service\obj\Debug\netcoreapp2.1\TesteApp.Service.AssemblyInfo.cs
+D:\Users\dev\source\repos\TesteApp\TesteApp.Service\obj\Debug\netcoreapp2.1\TesteApp.Service.dll
+D:\Users\dev\source\repos\TesteApp\TesteApp.Service\obj\Debug\netcoreapp2.1\TesteApp.Service.pdb
+D:\Users\dev\source\repos\TesteApp\TesteApp.Service\bin\Debug\netcoreapp2.1\TesteApp.Infraecstruture.dll
+D:\Users\dev\source\repos\TesteApp\TesteApp.Service\bin\Debug\netcoreapp2.1\TesteApp.Model.dll
+D:\Users\dev\source\repos\TesteApp\TesteApp.Service\bin\Debug\netcoreapp2.1\TesteApp.Infraecstruture.pdb
+D:\Users\dev\source\repos\TesteApp\TesteApp.Service\bin\Debug\netcoreapp2.1\TesteApp.Model.pdb
+D:\Users\dev\source\repos\TesteApp\TesteApp.Service\obj\Debug\netcoreapp2.1\TesteApp.Service.csproj.CopyComplete

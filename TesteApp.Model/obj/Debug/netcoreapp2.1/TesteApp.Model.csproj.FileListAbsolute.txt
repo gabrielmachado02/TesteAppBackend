@@ -1,0 +1,9 @@
+D:\Users\dev\source\repos\TesteApp\TesteApp.Model\bin\Debug\netcoreapp2.1\TesteApp.Model.deps.json
+D:\Users\dev\source\repos\TesteApp\TesteApp.Model\bin\Debug\netcoreapp2.1\TesteApp.Model.dll
+D:\Users\dev\source\repos\TesteApp\TesteApp.Model\bin\Debug\netcoreapp2.1\TesteApp.Model.pdb
+D:\Users\dev\source\repos\TesteApp\TesteApp.Model\obj\Debug\netcoreapp2.1\TesteApp.Model.csprojAssemblyReference.cache
+D:\Users\dev\source\repos\TesteApp\TesteApp.Model\obj\Debug\netcoreapp2.1\TesteApp.Model.csproj.CoreCompileInputs.cache
+D:\Users\dev\source\repos\TesteApp\TesteApp.Model\obj\Debug\netcoreapp2.1\TesteApp.Model.AssemblyInfoInputs.cache
+D:\Users\dev\source\repos\TesteApp\TesteApp.Model\obj\Debug\netcoreapp2.1\TesteApp.Model.AssemblyInfo.cs
+D:\Users\dev\source\repos\TesteApp\TesteApp.Model\obj\Debug\netcoreapp2.1\TesteApp.Model.dll
+D:\Users\dev\source\repos\TesteApp\TesteApp.Model\obj\Debug\netcoreapp2.1\TesteApp.Model.pdb

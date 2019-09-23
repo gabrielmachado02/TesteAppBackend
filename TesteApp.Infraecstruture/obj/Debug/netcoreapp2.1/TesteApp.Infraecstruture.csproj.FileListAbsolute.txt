@@ -1,0 +1,12 @@
+D:\Users\dev\source\repos\TesteApp\TesteApp.Infraecstruture\bin\Debug\netcoreapp2.1\TesteApp.Infraecstruture.deps.json
+D:\Users\dev\source\repos\TesteApp\TesteApp.Infraecstruture\bin\Debug\netcoreapp2.1\TesteApp.Infraecstruture.dll
+D:\Users\dev\source\repos\TesteApp\TesteApp.Infraecstruture\obj\Debug\netcoreapp2.1\TesteApp.Infraecstruture.csproj.CoreCompileInputs.cache
+D:\Users\dev\source\repos\TesteApp\TesteApp.Infraecstruture\obj\Debug\netcoreapp2.1\TesteApp.Infraecstruture.AssemblyInfoInputs.cache
+D:\Users\dev\source\repos\TesteApp\TesteApp.Infraecstruture\obj\Debug\netcoreapp2.1\TesteApp.Infraecstruture.AssemblyInfo.cs
+D:\Users\dev\source\repos\TesteApp\TesteApp.Infraecstruture\bin\Debug\netcoreapp2.1\TesteApp.Infraecstruture.pdb
+D:\Users\dev\source\repos\TesteApp\TesteApp.Infraecstruture\bin\Debug\netcoreapp2.1\TesteApp.Model.dll
+D:\Users\dev\source\repos\TesteApp\TesteApp.Infraecstruture\bin\Debug\netcoreapp2.1\TesteApp.Model.pdb
+D:\Users\dev\source\repos\TesteApp\TesteApp.Infraecstruture\obj\Debug\netcoreapp2.1\TesteApp.Infraecstruture.csprojAssemblyReference.cache
+D:\Users\dev\source\repos\TesteApp\TesteApp.Infraecstruture\obj\Debug\netcoreapp2.1\TesteApp.Infraecstruture.csproj.CopyComplete
+D:\Users\dev\source\repos\TesteApp\TesteApp.Infraecstruture\obj\Debug\netcoreapp2.1\TesteApp.Infraecstruture.dll
+D:\Users\dev\source\repos\TesteApp\TesteApp.Infraecstruture\obj\Debug\netcoreapp2.1\TesteApp.Infraecstruture.pdb
